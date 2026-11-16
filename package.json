@@ -1,0 +1,18 @@
+{
+  "name": "st-shujuku-flight-guard",
+  "version": "1.0.0",
+  "description": "SillyTavern extension that guards chronicle hiddenRowIds when big-summary floors are deleted in 龙血玄黄·数据库 (shujuku) classic table mode.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/core.test.js"
+  },
+  "keywords": [
+    "sillytavern",
+    "extension",
+    "shujuku",
+    "tavern-db"
+  ],
+  "author": "GalliumWang",
+  "license": "MIT"
+}

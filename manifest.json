@@ -1,0 +1,12 @@
+{
+  "display_name": "数据库经典模式·大总结删楼守护 (ACU Flight Guard)",
+  "loading_order": 250,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "GalliumWang",
+  "version": "1.0.0",
+  "homePage": "https://github.com/GalliumWang/st-shujuku-flight-guard",
+  "auto_update": true
+}
